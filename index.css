@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Anton', sans-serif;
+}
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Lato-Black;    
+}
+
+@font-face {
+  font-family: Lato-Black;
+  src:url(Lato-Black.ttf);
+}
+
+header{
+  margin-top:50px;
+  font-size: 40px;
+  /* font-family: Heading-Pro-Wide-Thin-trial; */
+}
+
+header a{
+  color:#000000;
+  text-decoration:none;
+  text-transform: uppercase;
+  font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
